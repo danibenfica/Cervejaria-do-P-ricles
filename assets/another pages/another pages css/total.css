@@ -155,7 +155,7 @@ body {
             he
 
             #menu {
-                width: 100%;
+                width: 400px;
                 height: 70px;
                         
                     }
@@ -184,7 +184,7 @@ body {
 
             #orangeBox {
                 width: 300px;
-                left: 10px;
+                left: 50px;
             }
 
                 #pTotal {
@@ -194,7 +194,7 @@ body {
                 }
 
             #btInicio {
-                margin-left: 10px;
+                margin-left: 50px;
             }
 
     }
