@@ -122,8 +122,12 @@ body {
             box-sizing: border-box;
         }
 
+        header {
+            width: 100%;
+        }
+
         header h1 {
-            width: 300px;
+            width: 100%;
             left: 10px;
             font-size: 22px;
             line-height: 40px;
@@ -176,7 +180,7 @@ body {
             height: 20px;
             left: 170px;
             top: 50px;
-            border: 1px solid #F5F5F5;
+            border: 1px solid #919191;
             font-weight: 400;
             font-size: 14px;
             line-height: 5px;
@@ -189,81 +193,4 @@ body {
 
 }
 
-
-@media only screen and (min-width: 481px) and (max-width: 768px) {
-    body {
-        width: 481px;
-        height: 768x;
-        margin: 0;
-        padding: 0;
-    }
-
-    header h1 {
-        width: 60px;
-        height: -120px;
-        left: 30px;
-        top: 0px;
-        font-size: 6px;
-        line-height: 8px;
-        
-    }
-
-    header img {
-        text-align: center;
-        width: 20px;
-        height: 12px;
-        left: 50px;
-        top: 32px;
-        z-index: 1;
-        
-    }
-
-    #orangeBox {
-        width: 100px;
-        height: 30px;
-        left: 15px;
-        top: 40px;
-    }
-    #text1 {
-        width: 228px;
-        height: 53px;
-        left: -68px;
-        top: -18px;
-        font-weight: 400;
-        font-size: 4px;
-        line-height: 53px;
-        text-align: center;
-        
-    }
-
-    #orangeBox #buttonYes {
-        width: 22px;
-        height: 8px;
-        left: 20px;
-        top: 15px;
-        border: 1px solid #F5F5F5;
-        font-weight: 600;
-        font-size: 3px;
-        line-height: 5px;
-        padding-right: 12px;
-        
-    }
-
-    #orangeBox #buttonNo {
-        width: 16px;
-        height: 8px;
-        left: 60px;
-        top: 15px;
-        border: 1px solid #F5F5F5;
-        font-weight: 600;
-        font-size: 3px;
-        line-height: 5px;
-        padding-right: 12px;
-        
-    }
-
-
-
-
-}
 
