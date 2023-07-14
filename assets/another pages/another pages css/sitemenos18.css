@@ -235,14 +235,14 @@ body {
                         #refri {
                             width: 50px;
                             height: 90px;
-                            left: 50px;
+                            left: 90px;
                             top: 210px; 
                             
                             }
                         #pRefri {
                             width: 100px;
                             height: 56px;
-                            left: 40px;
+                            left: 70px;
                             top: 270px;
                             font-size: 12px;
                             line-height: 14px;  
@@ -250,7 +250,7 @@ body {
                         #buttonPurchase {
                             width: 80px;
                             height: 30px;
-                            left: 30px;
+                            left: 80px;
                             top: 330px;
                             border: 2px solid #F5F5F5;
                             font-weight: 700;
@@ -262,109 +262,3 @@ body {
                     
         
         
-@media only screen and (min-width: 481px) and (max-width: 768px) {
-        body {
-            width: 481px;
-            height: 768x;
-            margin: 0;
-            padding: 0;
-            }
-
-            #menu {
-                width: 100%;
-                height: 70px;
-                                
-                }
-                #menu li {
-                    width: 30%;
-                    height: 70px;
-                    top: -20px;
-                    font-size: 12px;
-                    line-height: 12px;
-                    margin-top: -20px;
-                    margin-left: -40px;   
-                    }     
-
-                    li#mCarrinho {
-                        left: 0px;
-                        top: 1px;
-                        font-weight: 600;
-                        font-size: 12px;
-                        line-height: 22px;
-                    }
-                    
-                        .material-symbols-outlined {
-                            margin-left: 0px ;
-                            font-size: 30px !important;
-                            }
-                            
-            #cervejas {
-                text-align: center;
-                width: 70px;
-                height: 40px;
-                left: 120px;
-                top: 90px;
-                            }
-            #orangeBox {
-                width: 300px;
-                height: 180px;
-                left: 10px;
-                top: 110px;
-            }
-
-                #pDrinkChoice {
-                    width: 190px;
-                    height: 53px;
-                    left: 50px;
-                    top: 50px;
-                    font-weight: 400;
-                    font-size: 12px;
-                    line-height: 33px;
-                            }
-                            #refri {
-                                width: 50px;
-                                height: 90px;
-                                left: 150px;
-                                top: 210px; 
-                            }
-                                #pRefri {
-                                    width: 533px;
-                                    height: 56px;
-                                    left: 110px;
-                                    top: 270px;
-                                    font-size: 12px;
-                                    line-height: 14px;  
-                                }
-                                #buttonPurchase1 {
-                                    width: 80px;
-                                    height: 30px;
-                                    left: -77px;
-                                    top: 330px;
-                                    border: 2px solid #F5F5F5;
-                                    font-weight: 700;
-                                    font-size: 10px;
-                                    line-height: 23px;
-                                }
-                                #buttonPurchase2 {
-                                    width: 80px;
-                                    height: 30px;
-                                    left: 30px;
-                                    top: 330px;
-                                    border: 2px solid #F5F5F5;
-                                    font-weight: 700;
-                                    font-size: 10px;
-                                    line-height: 23px;
-                                }
-        
-                                #buttonPurchase3 {
-                                    width: 80px;
-                                    height: 30px;
-                                    left: 140px;
-                                    top: 330px;
-                                    border: 2px solid #F5F5F5;
-                                    font-weight: 700;
-                                    font-size: 10px;
-                                    line-height: 23px;
-                    
-                
-                } }
