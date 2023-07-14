@@ -299,12 +299,8 @@ body {
                 padding: 0;
             }
 
-            header {
-                width: 100%;
-            }
-
             #menu {
-                width: 100%;
+                width: auto;
                 height: 70px;
                         
                     }
