@@ -214,6 +214,7 @@ body {
                 align-items: center;
                 text-align: center;
                 color: #F5F5F5;
+
             }
 
             #buttonPurchase1 {
@@ -355,7 +356,7 @@ body {
                 top: 190px; 
             }
                 #pVinho {
-                    width: 533px;
+                    width: 100px;
                     height: 56px;
                     left: -65px;
                     top: 270px;
@@ -370,12 +371,13 @@ body {
                     top: 205px; 
                 }
                     #pCerveja {
-                        width: 533px;
+                        width: 100px;
                         height: 56px;
                         left: 20px;
                         top: 270px;
                         font-size: 12px;
-                        line-height: 14px;  
+                        line-height: 14px; 
+ 
                     }
             
                     #refri {
@@ -385,7 +387,7 @@ body {
                         top: 210px; 
                     }
                         #pRefri {
-                            width: 533px;
+                            width: 100px;
                             height: 56px;
                             left: 110px;
                             top: 270px;
