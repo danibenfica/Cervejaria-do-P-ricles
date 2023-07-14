@@ -136,7 +136,7 @@ body {
             text-align: center;
             width: 90px;
             height: 60px;
-            left: 100px;
+            left: 150px;
             top: 150px;
             z-index: 1;
             
@@ -178,7 +178,7 @@ body {
             height: 20px;
             left: 170px;
             top: 50px;
-            border: 1px solid #919191;
+            border: 1px solid #F5F5F5;
             font-weight: 400;
             font-size: 14px;
             line-height: 5px;
