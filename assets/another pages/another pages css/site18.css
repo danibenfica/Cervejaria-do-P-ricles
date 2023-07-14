@@ -390,7 +390,7 @@ body {
                         #pRefri {
                             width: 100px;
                             height: 56px;
-                            left: 200px;
+                            left: 170px;
                             top: 270px;
                             font-size: 12px;
                             line-height: 14px;  
@@ -419,7 +419,7 @@ body {
                         #buttonPurchase3 {
                             width: 80px;
                             height: 30px;
-                            left: 240px;
+                            left: 180px;
                             top: 330px;
                             border: 2px solid #F5F5F5;
                             font-weight: 700;
